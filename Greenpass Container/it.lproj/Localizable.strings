@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Greenpass Container
+
+  Created by Alessandro Curseri on 09/08/21.
+  
+*/
+"MYGP" = "Il mio GreenPass";
+"IMPTGP" = "Importa il tuo Green Pass";
+"SLCTWY" = "Come vorresti importare il tuo Green Pass?";
+"CMR" = "Camera";
+"PHTS" = "Libreria";
+"FLS" = "File";
+"EDT" = "Modifica";
+"QRCODERDR" = "QR Code Reader";
+"EDTGPS" = "Modifica Green Pass";
+"DN" = "Fatto";
+"GP" = "Green Pass";
+"DTBIRTH" = "Data di nascita:";
+"CTRTYPE" = "Tipo di certificazione:";
+"FLNAME" = "Nome Completo:";
+"GP:" = "Green Pass:";
